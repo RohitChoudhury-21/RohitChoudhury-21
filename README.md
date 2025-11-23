@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script, React Native**
+- 🌱 I’m currently learning **Python Data Science**
 
 - 📫 How to reach me **choudhury.rohit2102@gmail.com**
 
