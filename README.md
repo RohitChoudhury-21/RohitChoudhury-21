@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I'm Funny**
 
-<h3 align="left">Connect with me: ** https://www.linkedin.com/in/rohit-choudhury-97382924a/ **</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/rohit-choudhury-97382924a/ </h3>
 <p align="left">
 </p>
 
